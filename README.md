@@ -59,10 +59,6 @@ aman-ullah-convention-center/
 └── README.md
 ```
 
-https://i.ibb.co/RHPqRwD/Screenshot-2024-08-22-003723.png
-https://i.ibb.co/tsQNgKx/Screenshot-2024-08-22-003749.png
-https://i.ibb.co/4pYdQ5p/Screenshot-2024-08-22-003804.png
-
 
 ## **Screenshots**
 
